@@ -1,2 +1,2 @@
 # SECO
-Scientific Experiment Core Ontology
+Scientific Experiments Core Ontology
